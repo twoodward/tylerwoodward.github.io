@@ -3,10 +3,10 @@
     <channel>
         <title>Fully Modulated</title>
         <description>Fully Modulated is a podcast and blog that covers radio, broadcasting technology, industry news, and audio engineering topics.</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Nov 2025 00:46:40 -0600</pubDate>
-        <lastBuildDate>Thu, 27 Nov 2025 00:46:40 -0600</lastBuildDate>
+        <link>https://fullymodulated.com/</link>
+        <atom:link href="https://fullymodulated.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 27 Nov 2025 00:51:39 -0600</pubDate>
+        <lastBuildDate>Thu, 27 Nov 2025 00:51:39 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -40,8 +40,8 @@
 &lt;p&gt;So, this Thanksgiving note becomes my statement of purpose. I will keep building systems that are sturdy and simple to maintain. I will keep teaching the next engineer not only what to do, but why. I will keep honoring the hosts and producers who make the air worth carrying. I will keep showing up when the clock says otherwise. &lt;a href=&quot;https://en.wikipedia.org/wiki/Radio_broadcasting&quot;&gt;Radio&lt;/a&gt; is an old medium that stays young because people like us keep renewing it with skill and heart. &lt;strong&gt;Gratitude is how I remember that—and how I find the strength to do it again tomorrow.&lt;/strong&gt;&lt;/p&gt;
 </description>
                 <pubDate>Wed, 26 Nov 2025 07:00:00 -0600</pubDate>
-                <link>http://localhost:4000/turkey-transmitters-and-thanks</link>
-                <guid isPermaLink="true">http://localhost:4000/turkey-transmitters-and-thanks</guid>
+                <link>https://fullymodulated.com/turkey-transmitters-and-thanks</link>
+                <guid isPermaLink="true">https://fullymodulated.com/turkey-transmitters-and-thanks</guid>
                 
                 <category>Episodes</category>
                 
@@ -69,8 +69,8 @@
 &lt;p&gt;So if you have enjoyed Fully Modulated, thank you. You are coming with me. Same host, same brain, same curiosity, just with a name that feels a little more honest about what this thing actually is and where it is going.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 25 Nov 2025 23:00:00 -0600</pubDate>
-                <link>http://localhost:4000/the-tylerwoodward-project</link>
-                <guid isPermaLink="true">http://localhost:4000/the-tylerwoodward-project</guid>
+                <link>https://fullymodulated.com/the-tylerwoodward-project</link>
+                <guid isPermaLink="true">https://fullymodulated.com/the-tylerwoodward-project</guid>
                 
                 <category>Blog</category>
                 
@@ -102,8 +102,8 @@
 &lt;iframe height=&quot;175&quot; width=&quot;100%&quot; title=&quot;Media player&quot; src=&quot;https://embed.podcasts.apple.com/us/podcast/how-fcc-spectrum-auctions-push-broadcasters-toward/id1803865840?i=1000738104440&amp;amp;itscg=30200&amp;amp;itsct=podcast_box_player&amp;amp;ls=1&amp;amp;mttnsubad=1000738104440&amp;amp;theme=auto&quot; id=&quot;embedPlayer&quot; style=&quot;border: 0px; border-radius: 12px; width: 100%; height: 175px; max-width: 660px;&quot; sandbox=&quot;allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation&quot; allow=&quot;autoplay *; encrypted-media *; clipboard-write&quot;&gt;&lt;/iframe&gt;
 </description>
                 <pubDate>Sun, 23 Nov 2025 08:00:00 -0600</pubDate>
-                <link>http://localhost:4000/how-fcc-spectrum-auctions-push-broadcasters-toward-internet-first-delivery</link>
-                <guid isPermaLink="true">http://localhost:4000/how-fcc-spectrum-auctions-push-broadcasters-toward-internet-first-delivery</guid>
+                <link>https://fullymodulated.com/how-fcc-spectrum-auctions-push-broadcasters-toward-internet-first-delivery</link>
+                <guid isPermaLink="true">https://fullymodulated.com/how-fcc-spectrum-auctions-push-broadcasters-toward-internet-first-delivery</guid>
                 
                 <category>Episodes</category>
                 
@@ -135,8 +135,8 @@
 &lt;p&gt;So why doesn’t it return now? Receivers are scarce, car dashboards prioritize streaming, and the brand of AM is cemented as talk-first. Yet the history carries a useful lesson. Distribution wins when standards are clear, hardware is ubiquitous, and the experience is obvious. AM stereo had two out of three but missed the moment for the third. Still, there’s joy in the chase. If you can find a station, or even a well-captured demo, listen with fresh ears. You’ll hear a reminder that radio’s surprises live in the spaces between policy, persistence, and passion—and that great sound sometimes hides in plain sight on a band most of us wrote off too soon.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 17 Nov 2025 06:00:00 -0600</pubDate>
-                <link>http://localhost:4000/am-stereo-lost-legacy</link>
-                <guid isPermaLink="true">http://localhost:4000/am-stereo-lost-legacy</guid>
+                <link>https://fullymodulated.com/am-stereo-lost-legacy</link>
+                <guid isPermaLink="true">https://fullymodulated.com/am-stereo-lost-legacy</guid>
                 
                 <category>Episodes</category>
                 
@@ -164,8 +164,8 @@
 &lt;p&gt;If you want the upgrade, start simple. Compare your car’s &lt;a href=&quot;https://en.wikipedia.org/wiki/FM_broadcasting&quot;&gt;FM&lt;/a&gt;, HD Radio, satellite, and phone stream on the same track. Note the presence of air around vocals, the shimmer of cymbals, the weight of bass notes, and the stability of the stereo image. If you run a station or a podcast, audit your chain end to end: source quality, mix headroom, loudness standard, encoder choice, and delivery bitrate. Avoid starving the encoder; a few more kilobits can rescue ambience and transients. For listeners, choose sources that match the moment: satellite for breadth and coverage, HD Radio or high‑bitrate streaming when you want to lean in and actually feel the music breathe. Quality is a choice, and the tools to get there are already in your pocket.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 10 Nov 2025 05:00:00 -0600</pubDate>
-                <link>http://localhost:4000/why-siriusxm-sounds-mushy</link>
-                <guid isPermaLink="true">http://localhost:4000/why-siriusxm-sounds-mushy</guid>
+                <link>https://fullymodulated.com/why-siriusxm-sounds-mushy</link>
+                <guid isPermaLink="true">https://fullymodulated.com/why-siriusxm-sounds-mushy</guid>
                 
                 <category>Episodes</category>
                 
@@ -189,8 +189,8 @@
 &lt;p&gt;Steve and Leslie Tunwall would like to thank their customers and broadcast equipment dealers for their support and loyalty over the last 21 years. Their dedication and engineering skill have left a lasting legacy in broadcast technology.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 09 Nov 2025 07:00:00 -0600</pubDate>
-                <link>http://localhost:4000/tunwall-radio-closing-down</link>
-                <guid isPermaLink="true">http://localhost:4000/tunwall-radio-closing-down</guid>
+                <link>https://fullymodulated.com/tunwall-radio-closing-down</link>
+                <guid isPermaLink="true">https://fullymodulated.com/tunwall-radio-closing-down</guid>
                 
                 <category>Engineering</category>
                 
@@ -252,8 +252,8 @@
 &lt;p&gt;Until next November, anyway.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 08 Nov 2025 05:00:00 -0600</pubDate>
-                <link>http://localhost:4000/christmas-music-format-takeover</link>
-                <guid isPermaLink="true">http://localhost:4000/christmas-music-format-takeover</guid>
+                <link>https://fullymodulated.com/christmas-music-format-takeover</link>
+                <guid isPermaLink="true">https://fullymodulated.com/christmas-music-format-takeover</guid>
                 
                 <category>Industry</category>
                 
@@ -349,8 +349,8 @@
 &lt;p&gt;Radio stations are community resources and trusted sources of information, especially during emergencies. Allowing your broadcast infrastructure to remain vulnerable doesn’t just risk embarrassing on-air incidents. It potentially compromises public safety.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 03 Nov 2025 05:00:00 -0600</pubDate>
-                <link>http://localhost:4000/barix-codec-security</link>
-                <guid isPermaLink="true">http://localhost:4000/barix-codec-security</guid>
+                <link>https://fullymodulated.com/barix-codec-security</link>
+                <guid isPermaLink="true">https://fullymodulated.com/barix-codec-security</guid>
                 
                 <category>Episodes</category>
                 
@@ -450,8 +450,8 @@
 &lt;p&gt;It shouldn’t be this hard. An update system should be reliable, predictable, and transparent. Microsoft’s isn’t. Until that changes, broadcast engineers will keep spending too much time fighting with Windows instead of doing the work that matters.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 01 Nov 2025 08:00:00 -0500</pubDate>
-                <link>http://localhost:4000/windows-update-nightmare</link>
-                <guid isPermaLink="true">http://localhost:4000/windows-update-nightmare</guid>
+                <link>https://fullymodulated.com/windows-update-nightmare</link>
+                <guid isPermaLink="true">https://fullymodulated.com/windows-update-nightmare</guid>
                 
                 <category>Engineering</category>
                 
@@ -507,8 +507,8 @@
 &lt;p&gt;Time will tell. I’ll be listening when KNAC returns at midnight on Halloween, hoping that some of that old magic survived the 30-year gap. The spirit might still be there. Whether it can thrive in 2025’s radio landscape is the real question.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 30 Oct 2025 17:00:00 -0500</pubDate>
-                <link>http://localhost:4000/knac-relaunch-halloween</link>
-                <guid isPermaLink="true">http://localhost:4000/knac-relaunch-halloween</guid>
+                <link>https://fullymodulated.com/knac-relaunch-halloween</link>
+                <guid isPermaLink="true">https://fullymodulated.com/knac-relaunch-halloween</guid>
                 
                 <category>Industry</category>
                 
